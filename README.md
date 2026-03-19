@@ -1,4 +1,4 @@
-# ## Overview
+## Overview
 
 MastersApp is a full-featured fitness and nutrition application built with Flutter. It combines authentication, state management, and real-world API integrations into a scalable mobile app.
 
